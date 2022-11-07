@@ -1,6 +1,7 @@
 ﻿using AtividadeModulo6.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 
 namespace AtividadeModulo6.Controllers
 {
